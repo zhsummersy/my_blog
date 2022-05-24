@@ -1,6 +1,7 @@
 #  个人技术博客
-技术栈:python,django,javascript,boostrap
-因为只想单纯记录一文字，没有添加很多功能
+技术栈:python,django,javascript,boostrap<br>
+
+因为只想单纯记录一文字，没有添加很多功能 <br>
 已经部署到阿里云，可以通过域名访问：http://zh-blog.co/
 所用技术如图：
 <img width="1194" alt="项目功能描述" src="https://user-images.githubusercontent.com/85549171/126589361-1b0d82fe-1d8a-4feb-bf3e-74e81cf81eb9.png">
