@@ -1,6 +1,5 @@
 #  个人技术博客
 技术栈:python,django,javascript,boostrap<br>
-
 因为只想单纯记录一文字，没有添加很多功能 <br>
 已经部署到阿里云，可以通过域名访问：http://zh-blog.co/
 所用技术如图：
