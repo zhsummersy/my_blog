@@ -1,0 +1,15 @@
+asgiref==3.2.3
+certifi==2020.4.5.1
+chardet==3.0.4
+Django==3.0.2
+django-crispy-forms==1.9.1
+dnspython==1.16.0
+email-validator==1.0.5
+idna==2.9
+Pillow==7.1.1
+pipenv==2018.11.26
+python-dateutil==2.8.1
+pytz==2019.3
+requests==2.23.0
+sqlparse==0.3.0
+urllib3==1.25.9
